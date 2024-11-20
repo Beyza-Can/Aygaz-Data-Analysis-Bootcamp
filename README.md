@@ -1,5 +1,7 @@
 # Aygaz-Data-Analysis-Bootcamp
 This repository contains my data analysis project . 
+Here is the Kaggle link:
+https://www.kaggle.com/code/beyzacankurtaran/aygaz-data-analysis-bootcamp/
 
 
 # Aygaz Data Analysis Bootcamp Project
